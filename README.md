@@ -1,6 +1,8 @@
-## yuan_proj
+## LiDAR_Building_Segmentation
 
-This repository contains the code and results of the assignment detail please see readme.md
+This repository contains the code and results of the LiDAR based object segmentation(Building) detail please see readme.md
+The data can be achieved by the URL:● https://download.pdok.nl/rws/ahn3/v1_0/laz/C_37EZ1.LAZ
+                                    ● https://download.pdok.nl/rws/ahn3/v1_0/laz/C_37EZ2.LAZ
 
 
 ## Requirements
